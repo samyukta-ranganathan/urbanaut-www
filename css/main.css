@@ -1,0 +1,10 @@
+body {
+    background-color: #002542;
+}
+
+.center {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
