@@ -1,2 +1,3 @@
-# urbanaut.app
-Urbanaut's website
+# Urbanaut
+
+City guides through local eyes.
